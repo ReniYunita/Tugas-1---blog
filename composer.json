@@ -1,0 +1,14 @@
+{
+    "name": "acer/tugas1_blog",
+    "description": "Program Tugas 1 Blog Pemrograman Berbasis Web Lanjutan Prodi Sistem Informasi UINSU Medan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "ReniYunita",
+            "email": "reniyunita045@gmail.com"
+        }
+    ]
+}
